@@ -1,0 +1,11 @@
+{
+  "slug": "svg-on-sol",
+  "name": "SVG on SOL",
+  "kind": "art",
+  "description": "Minify, measure, preview, and package SVG art for a single v1 transaction.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}

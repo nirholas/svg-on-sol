@@ -8,7 +8,7 @@ Minify, measure, preview, and package SVG art for a single v1 transaction.
 
 - Source: https://github.com/nirholas/svg-on-sol
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
